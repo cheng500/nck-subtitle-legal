@@ -9,8 +9,8 @@ This Privacy Policy explains how we collect, use, and protect your personal data
 Data Controller:
 Ngai Cheng Kuan
 Email: nckdevelopment@gmail.com
-A-1100 Himberger Straße 28/5
-Vienna, Austria
+Ada-Christen-Gasse 2 Postfach 0002
+1108 Vienna, Austria
 2. What Data We Collect
 
     Email address and password (hashed securely)
@@ -90,4 +90,4 @@ We may update this Privacy Policy from time to time. We will inform you of mater
 
 Ngai Cheng Kuan
 Email: nckdevelopment@gmail.com
-Address: A-1100 Himberger Straße 28/5, Austria
+Address: Ada-Christen-Gasse 2 Postfach 0002 1108 Wien
